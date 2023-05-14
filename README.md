@@ -26,4 +26,4 @@ https://viblo.asia/p/tim-hieu-cac-phuong-thuc-authentication-voi-rest-api-bJzKmq
 https://viblo.asia/p/cac-phuong-thuc-pho-bien-dung-authentication-naQZRPGP5vx
 
 
-# ---> Authorization: Users role
+# ---> Authorization: Users role user/admin
